@@ -16,7 +16,7 @@ https://youtu.be/iA1HZghQF-o
 - Firestore Database
 
 ## Developed By:
-- Akash Ramjyothi.
-- E-Mail ID: +91 8939928002.
-- PH: +91 8939928002.
-- LinkedIn: https://www.linkedin.com/in/akash-ramjyothi/ 
+- Mriganka Jana
+- E-Mail ID: mrigajana2001@gmail.com
+- PH: +91 8653802996.
+- LinkedIn: https://www.linkedin.com/in/mriganka-jana-mak-stark-72546718a/
